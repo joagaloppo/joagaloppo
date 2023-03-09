@@ -11,7 +11,9 @@ I take pride in writing **clean code** and adhering to **best practices and conv
 
 In addition to my technical skills, I have experience with **agile and scrum methodologies**, and how to work in teams and effectively communicate to get things done. I am passionate about producing excellent results, and I always strive to exceed expectations and achieve the best possible results.
 
-📫 Contact me **joaquingaloppo@gmail.com**<br/>💼 Get in touch with me in <b><a href="https://www.linkedin.com/in/joagaloppo" target="_blank" rel="noreferrer">LinkedIn</a></b>
+📫 Contact me **joaquingaloppo@gmail.com**<br/>
+💼 Get in touch with me in <b><a href="https://www.linkedin.com/in/joagaloppo" target="_blank" rel="noreferrer">LinkedIn</a></b><br/>
+📃 See my resume <b><a href="https://joagaloppo.com/resume.pdf" target="_blank" rel="noreferrer">here</a></b>
 
 
 <hr/>
@@ -105,6 +107,15 @@ In addition to my technical skills, I have experience with **agile and scrum met
 				</a>
 			</td>
 			<td>
+				<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+					<img
+						src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+						alt="nodejs"
+						width="40"
+						height="40" />
+				</a>
+			</td>
+			<td>
 				<a href="https://expressjs.com" target="_blank" rel="noreferrer">
 					<img
 						src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
@@ -140,15 +151,6 @@ In addition to my technical skills, I have experience with **agile and scrum met
 						height="40" />
 				</a>
 			</td>
-			<td>
-				<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-					<img
-						src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-						alt="nodejs"
-						width="40"
-						height="40" />
-				</a>
-			</td>
 		</tr>
 	</tbody>
 </table>
@@ -158,6 +160,8 @@ In addition to my technical skills, I have experience with **agile and scrum met
 
 
 <h3 align="center" style="margin-top:48px; margin-bottom:24px">Projects & work:</h3>
+
+- <b><a href="https://www.postgresql.org" target="_blank" rel="noreferrer">Next Games: </a></b><italic><i>(In progress)</i> Video game catalog that uses the rawg.io API as a data source. In addition to displaying games from the API, the catalog also allows users to create and publish their own games. This project has been a great opportunity for me to learn Next.JS, as well as gain experience using Prisma ORM. Styling for the project is being implemented using Tailwind CSS, and all user-generated data is securely stored in a MySQL database.
 
 - <b><a href="https://github.com/joagaloppo/ulock-server" target="_blank" rel="noreferrer">uLock: </a></b> Web application designed to support content creators by allowing them to control access to their freely available content. Users who wish to download or view the content will be required to complete a social action, such as following the creator on a social network or sharing a post. This approach provides a way for creators to be compensated for their work while still allowing users to access content for free. I built it using React, Express, and Sequelize ORM with a MySQL database. During the development process I gained experience with user authentication and React Query.
 
