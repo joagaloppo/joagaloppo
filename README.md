@@ -2,10 +2,10 @@
 <p>Experienced in building complex web applications, creating and working with RESTful APIs and developing single page applications. Passionate about writing clean code, following community standards and staying updated with the tech world. Quick learner, able to adapt to new tools.</p>
 <p>Strong communicator, team player and self-motivated. Experience with Scrum methodology. Dedicated in delivering excellent results and always striving to exceed expectations.</p>
 <hr/>
-<p align="center">Contact me <b>joaquingaloppo@gmail.com</b><br/>
+<p>Contact me <b>joaquingaloppo@gmail.com</b><br/>
 Get in touch with me in <b><a href="https://www.linkedin.com/in/joagaloppo" target="_blank" rel="noreferrer">linkedin</a></b><br/>
 See my resume <b><a href="https://joagaloppo.com/resume.pdf" target="_blank" rel="noreferrer">here</a></b></p>
-<table align="center">
+<table>
   <tbody>
     <tr>
       <td>
@@ -40,6 +40,8 @@ See my resume <b><a href="https://joagaloppo.com/resume.pdf" target="_blank" rel
           height="40"
         />
       </td>
+    </tr>
+    <tr>
       <td>
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
